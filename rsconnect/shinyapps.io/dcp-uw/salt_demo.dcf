@@ -1,0 +1,13 @@
+name: salt_demo
+title: salt_demo
+username:
+account: dcp-uw
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11324003
+bundleId: 8295617
+url: https://dcp-uw.shinyapps.io/salt_demo/
+when: 1708887352.02979
+lastSyncTime: 1708887352.0298
+asMultiple: FALSE
+asStatic: FALSE
